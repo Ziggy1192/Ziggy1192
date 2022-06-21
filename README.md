@@ -1,5 +1,18 @@
-### Hi there 👋
+# Thank you for visiting!
+### --- PERSONAL GOAL TRACKER FOR 2022 ---    
 
+Complete the Bootcamp: :green_circle:    
+Find a job: :yellow_circle:    
+Learn Vanilla JS: :yellow_circle:    
+Learn React: :red_circle:    
+PLACEHOLDER
+
+---------------------------------------------------------------------------------------------------------------
+
+💬 Ask me about ~~job search as a junior developer~~ struggles after the bootcamp😄 
+Jokes aside, if you need anything just reach out!
+
+---------------------------------------------------------------------------------------------------------------
 <!--
 **Ziggy1192/Ziggy1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
