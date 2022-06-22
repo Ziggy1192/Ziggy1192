@@ -9,7 +9,7 @@ PLACEHOLDER
 
 ---------------------------------------------------------------------------------------------------------------
 
-💬 Ask me about ~~job search as a junior developer~~ struggles after the bootcamp😄 
+💬 Ask me about ~~job search as a junior developer~~ struggles after the bootcamp😄   
 Jokes aside, if you need anything just reach out!
 
 ---------------------------------------------------------------------------------------------------------------
