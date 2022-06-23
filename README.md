@@ -2,10 +2,9 @@
 ### --- PERSONAL GOAL TRACKER FOR 2022 ---    
 
 Complete the Bootcamp: :green_circle:    
-Find a job: :yellow_circle:    
-Learn Vanilla JS: :yellow_circle:    
-Learn React: :red_circle:    
-PLACEHOLDER
+Learn JS: :yellow_circle:    
+Learn React: :red_circle:   
+Find a job: :red_circle:   
 
 ---------------------------------------------------------------------------------------------------------------
 
