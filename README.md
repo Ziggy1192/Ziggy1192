@@ -1,17 +1,7 @@
 # Thank you for visiting!
 ### --- PERSONAL GOAL TRACKER FOR 2022 ---    
+just continue learning... :nerd_face:
 
-Complete the Bootcamp: :green_circle:    
-Learn JS: :yellow_circle:    
-Learn React: :red_circle:   
-Find a job: :red_circle:   
-
----------------------------------------------------------------------------------------------------------------
-
-💬 Ask me about ~~job search as a junior developer~~ struggles after the bootcamp😄   
-Jokes aside, if you need anything just reach out!
-
----------------------------------------------------------------------------------------------------------------
 <!--
 **Ziggy1192/Ziggy1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
