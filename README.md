@@ -1,6 +1,6 @@
 # Thank you for visiting!
 ### --- PERSONAL GOAL TRACKER FOR 2022 ---    
-just continue learning... :nerd_face:
+Continue learning... :nerd_face:
 
 <!--
 **Ziggy1192/Ziggy1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
